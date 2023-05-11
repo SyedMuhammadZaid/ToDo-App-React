@@ -1,0 +1,10 @@
+.date-selector{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid salmon;
+    margin: 0.5rem 0.2rem;
+    padding: 0.3rem 0.5rem;
+}
